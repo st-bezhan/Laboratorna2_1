@@ -1,0 +1,3 @@
+C:/Users/stanislav/Desktop/Інформатика/Laboratorna_2/1_Part/cmake-build-debug/CMakeFiles/1_Part.dir
+C:/Users/stanislav/Desktop/Інформатика/Laboratorna_2/1_Part/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/stanislav/Desktop/Інформатика/Laboratorna_2/1_Part/cmake-build-debug/CMakeFiles/rebuild_cache.dir
